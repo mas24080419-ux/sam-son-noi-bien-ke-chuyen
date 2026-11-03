@@ -1,11 +1,9 @@
 # Sầm Sơn Du Ký — Nơi biển kể chuyện
 
-Album văn hóa Sầm Sơn với bìa sổ 3D trên bàn gỗ, lật trang giấy bằng kéo góc, 38 trang nội dung, tiếng sóng và sổ tay cá nhân.
-
 [Đọc album](https://mas24080419-ux.github.io/sam-son-noi-bien-ke-chuyen/)
 
-Thiết kế đối chiếu với website Việt Phục Du Ký và tài nguyên trong bản dựng AI Studio được cung cấp. Nội dung chính dựa trên bản thảo 16 chặng. Các tranh minh họa không phải ảnh tư liệu.
+Cuốn sổ 38 trang kể 16 chặng về cảnh sắc, huyền tích và đời sống Sầm Sơn. Có bìa mở 3D, lật giấy bằng kéo góc, phần mở đầu ba cảnh, tiếng sóng và trang ký ức lưu trên trình duyệt. Nút Aa mở nội dung đầy đủ bằng chữ lớn.
 
-Hiệu ứng lật trang: StPageFlip 2.0.7 (MIT), thông báo giấy phép nằm tại assets/page-flip-LICENSE.txt.
+[Ảnh, tác giả và giấy phép](PHOTO-CREDITS.md). Các cảnh chưa có ảnh phù hợp dùng ký họa minh họa.
 
-Mở index.html bằng trình duyệt hoặc dùng máy chủ tĩnh để xem. Không cần backend hay API key.
+Thiết kế tham khảo Việt Phục Du Ký và tài nguyên bản dựng do người dùng cung cấp. Hiệu ứng lật giấy: StPageFlip 2.0.7 ([MIT](assets/page-flip-LICENSE.txt)). Mở `index.html` hoặc dùng máy chủ tĩnh; không cần backend hay API key.
